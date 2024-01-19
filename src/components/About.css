@@ -1,0 +1,20 @@
+/* About.css */
+
+.about-content {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  h3 {
+    margin-top: 1.5em;
+  }
+  
+  ul, ol {
+    margin-bottom: 1.5em;
+  }
+  
+  .thank-you {
+    font-weight: bold;
+    color: #2ecc71; /* Green color */
+  }
+  
